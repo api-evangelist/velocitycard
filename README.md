@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VelocityCard Card Issuing is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.velocitycard.io
+VelocityCard provides a card issuing platform and banking-as-a-service (BaaS) solutions for businesses, fintechs, and banks. It enables issuance of virtual and physical cards, spend controls, and real‑time transaction monitoring. The service emphasizes low cost, rapid program launch, and no asset minimums, targeting commercial card programs and digital payment infrastructure.
+
+**Areas:** Card Issuing · Banking as a Service · Embedded Finance · Commercial Cards · Payments · Expense Management
+
+## VelocityCard Card Issuing on APIs.io
+
+Everything profiled for VelocityCard Card Issuing is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/velocitycard/](https://apis.io/providers/velocitycard/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [VelocityCard Card Issuing Cards API](https://apis.io/apis/velocitycard/velocitycard-cards-api/) — The Cards API from VelocityCard Card Issuing — 4 operation(s) for cards.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostV1CardsIssueRequest](https://apis.io/schemas/velocitycard/velocitycard-post-v1-cards-issue-request/)
+- [PostV1CardsIssueResponse](https://apis.io/schemas/velocitycard/velocitycard-post-v1-cards-issue-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Velocitycard Context](https://apis.io/jsonld/velocitycard/velocitycard-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [VelocityCard Card Issuing API Rules](https://apis.io/rules/velocitycard/velocitycard-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Velocitycard Domain Security](https://apis.io/security/velocitycard/velocitycard-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Velocitycard Plans Pricing](https://apis.io/plans/velocitycard/velocitycard-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.velocitycard.io)
+- [Documentation](https://www.velocitycard.io/card-issuing-api)
+- [Sign up](https://www.velocitycard.io/register)
+- [Blog](https://www.velocitycard.io/blog)
+- [Terms of service](https://www.velocitycard.io/terms)
+- [Privacy policy](https://www.velocitycard.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 28.9** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 20.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 65.8 |
+
+**Agent readiness 12.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.0** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/velocitycard/](https://apis.io/providers/velocitycard/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for VelocityCard Card Issuing: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/velocitycard/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
